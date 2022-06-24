@@ -7,4 +7,4 @@ GitHub Repo URL:
 Deployed URL:
 
 
-![image] 
+![Website Screenshot](ubiquitous-refactor-screenshot.png) 
